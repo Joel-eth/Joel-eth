@@ -1,5 +1,9 @@
 ### Hi there 👋
 I'm Joel Kelvin
+🌱 I’m currently learning solidity
+👯 I’m looking to collaborate on solidity projects to gain experience.
+📫 How to reach me: instagram @ns_j03l
+                     twitter @cryptonaut
 
 <!--
 **Joel-eth/Joel-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
