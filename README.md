@@ -11,5 +11,5 @@ What I'm Looking For
 🔍 If you're interested in exploring Solidity or working on basic blockchain projects, feel free to reach out! Let's learn and build together.
 
 Get in Touch
-📫 You can reach me via email or connect with me on LinkedIn.
+📫 You can reach me via email at paulodojoel@gmail.com or connect with me on twitter @cryptronaut.
 
