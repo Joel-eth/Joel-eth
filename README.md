@@ -1,23 +1,15 @@
-### Hi there 👋
-I'm Joel Kelvin
-🌱 I’m currently learning solidity
-👯 I’m looking to collaborate on solidity projects to gain experience.
-📫 How to reach me: instagram @ns_j03l
-                     twitter @cryptonaut
+👋 Hey there! Welcome to my GitHub profile!
 
-<!--
-**Joel-eth/Joel-eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-🌱 I’m currently learning solidity
-👯 I’m looking to collaborate on solidity projects to gain experience.
-📫 How to reach me: instagram @ns_j03l
+About Me
+🌱 I'm currently diving into the world of blockchain development and learning Solidity, the programming language for Ethereum smart contracts. Excited about the potential of decentralized applications (dApps) and the Ethereum ecosystem!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning solidity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm on a journey to become proficient in Solidity and build awesome projects on the blockchain.
+
+What I'm Looking For
+🤝 I'm keen to collaborate with like-minded individuals who are also learning Solidity or have experience in blockchain development. I'm open to working on basic projects together, whether it's creating simple smart contracts, building decentralized applications, or exploring blockchain concepts.
+
+🔍 If you're interested in exploring Solidity or working on basic blockchain projects, feel free to reach out! Let's learn and build together.
+
+Get in Touch
+📫 You can reach me via email or connect with me on LinkedIn.
+
