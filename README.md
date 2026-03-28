@@ -9,7 +9,7 @@
  ╚════╝  ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-**`blockchain dev  ·  quant trader  ·  degen builder`**
+**`full-stack dev  ·  blockchain builder  ·  degen engineer`**
 
 [![Twitter](https://img.shields.io/badge/𝕏-@joelcfds-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/joelcfds)
 [![Email](https://img.shields.io/badge/paulodojoel@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paulodojoel@gmail.com)
@@ -22,14 +22,14 @@
 
 ```solidity
 contract Joel {
-    string constant ROLE     = "Blockchain Developer";
-    string constant FOCUS    = "DeFi × Trading Infrastructure";
-    string constant BUILDING = "Onchain systems that print";
+    string constant ROLE     = "Full-Stack × Blockchain Developer";
+    string constant FOCUS    = "DeFi, Dev Tools, and Onchain Products";
+    string constant BUILDING = "Systems that ship and systems that scale";
     bool   constant HIRING   = true;
 }
 ```
 
-I build **trading bots**, **smart contracts**, and **real-time dashboards** — the kind of tools that sit at the intersection of DeFi and quantitative trading. If it touches the chain and moves money, I'm interested.
+I build **smart contracts**, **trading bots**, **web apps**, and **developer tools** — anything that sits at the intersection of software engineering and crypto. If it ships onchain or solves a real problem, I'm building it.
 
 ---
 
@@ -39,12 +39,13 @@ I build **trading bots**, **smart contracts**, and **real-time dashboards** — 
 
 | Layer | Tech |
 |:---:|:---|
-| **Languages** | `Solidity` · `Python` · `JavaScript` · `TypeScript` |
-| **Blockchain** | `Ethereum` · `EVM Chains` · `Hyperliquid` · `Polymarket` |
+| **Languages** | `Solidity` · `TypeScript` · `JavaScript` · `Python` |
+| **Blockchain** | `Ethereum` · `Base` · `EVM Chains` · `Hyperliquid` · `Polymarket` |
+| **Frontend** | `Next.js` · `React` · `Tailwind` · `Wagmi` · `RainbowKit` |
+| **Backend** | `Node.js` · `FastAPI` · `WebSockets` · `REST APIs` |
+| **Smart Contracts** | `Hardhat` · `OpenZeppelin` · `Foundry` |
 | **DeFi** | `DEX Aggregation` · `CVD Analysis` · `Order Flow` · `MEV` |
-| **Backend** | `FastAPI` · `WebSockets` · `asyncio` · `Node.js` |
-| **Frontend** | `React` · `Vanilla JS` · `Terminal UIs` · `Real-time Dashboards` |
-| **Infra** | `Git` · `Docker` · `Linux` · `RPC Nodes` |
+| **Infra** | `Git` · `Docker` · `Linux` · `Vercel` · `Railway` |
 
 </div>
 
@@ -53,10 +54,13 @@ I build **trading bots**, **smart contracts**, and **real-time dashboards** — 
 ### `> ls ~/projects`
 
 ```
+drwxr-xr-x  wagerdao/            Trustless P2P sports betting protocol on Base
 drwxr-xr-x  cvd-trading-bot/     Polymarket × Hyperliquid CVD divergence trading bot
 drwxr-xr-x  adsino-bot/          Telegram bot & Mini App — gamified ad engagement
 drwxr-xr-x  more-coming/         █████████░░░░░ 65% complete...
 ```
+
+**[wagerdao](https://github.com/Joel-eth/wagerdao)** — Onchain sports betting exchange on Base. Parimutuel markets, USDC settlement, automated resolution. Smart contracts + Next.js frontend + automation layer. Currently in active build.
 
 **[cvd-trading-bot](https://github.com/Joel-eth/cvd-trading-bot)** — Real-time BTC 5-min trading bot that detects price-CVD divergences on Hyperliquid and places directional bets on Polymarket. Features confidence-based position sizing, multi-sample signal analysis, and a cyberpunk terminal dashboard.
 
@@ -65,22 +69,21 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 ### `> cat /dev/philosophy`
 
 ```
-║ "If you can read the order flow, you can read the future."  ║
+║ "Ship it, verify it, let the chain do the rest."            ║
 ║                                                              ║
-║  I don't predict markets. I build systems that react to      ║
-║  what the market is already telling us — CVD divergence,     ║
-║  volume imbalance, liquidation cascades. The edge is in      ║
-║  the execution.                                              ║
+║  I don't just write code — I build products. From smart      ║
+║  contracts to frontends, trading systems to dev tools.       ║
+║  The stack doesn't matter. The output does.                  ║
 ```
 
 ---
 
 ### `> tail -f /var/log/activity`
 
-- 🔨 Currently building **automated trading infrastructure**
-- 📡 Exploring **Hyperliquid order flow** and **onchain signal engines**
-- ⚡ Shipping bots that trade while I sleep
-- 🧠 Deep-diving into **MEV**, **CVD analysis**, and **market microstructure**
+- 🔨 Currently building **[WagerDAO](https://github.com/Joel-eth/wagerdao)** — onchain sports betting on Base
+- 🧰 Shipping **full-stack dApps**, **trading bots**, and **developer tools**
+- ⚡ Deep in **Solidity**, **Next.js**, and **DeFi infrastructure**
+- 📡 Exploring **onchain automation**, **MEV**, and **market microstructure**
 
 ---
 
@@ -102,7 +105,7 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-**Building the future of onchain trading — one commit at a time.**
+**Building onchain products — one commit at a time.**
 
 </div>
 
