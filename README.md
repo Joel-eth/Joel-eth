@@ -11,7 +11,7 @@
 
 **`blockchain dev  ·  quant trader  ·  degen builder`**
 
-[![Twitter](https://img.shields.io/badge/𝕏-@joeldoteth-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/joeldoteth)
+[![Twitter](https://img.shields.io/badge/𝕏-@joelcfds-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/joelcfds)
 [![Email](https://img.shields.io/badge/paulodojoel@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:paulodojoel@gmail.com)
 
 </div>
