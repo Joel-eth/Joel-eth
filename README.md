@@ -39,12 +39,13 @@ I build **smart contracts**, **trading bots**, **web apps**, and **developer too
 
 | Layer | Tech |
 |:---:|:---|
-| **Languages** | `Solidity` · `TypeScript` · `JavaScript` · `Python` |
+| **Languages** | `Solidity` · `TypeScript` · `JavaScript` · `Python` · `Rust` |
 | **Blockchain** | `Ethereum` · `Base` · `EVM Chains` · `Hyperliquid` · `Polymarket` |
 | **Frontend** | `Next.js` · `React` · `Tailwind` · `Wagmi` · `RainbowKit` |
 | **Backend** | `Node.js` · `FastAPI` · `WebSockets` · `REST APIs` |
 | **Smart Contracts** | `Hardhat` · `OpenZeppelin` · `Foundry` |
 | **DeFi** | `DEX Aggregation` · `CVD Analysis` · `Order Flow` · `MEV` |
+| **Security** | `Unicode Homograph Detection` · `IDN Abuse Prevention` · `Supply Chain Defense` |
 | **Infra** | `Git` · `Docker` · `Linux` · `Vercel` · `Railway` |
 
 </div>
@@ -54,11 +55,14 @@ I build **smart contracts**, **trading bots**, **web apps**, and **developer too
 ### `> ls ~/projects`
 
 ```
+drwxr-xr-x  thud/                Terminal Homograph URL Defense — copy-paste protection for devs
 drwxr-xr-x  wagerdao/            Trustless P2P sports betting protocol on Base
 drwxr-xr-x  cvd-trading-bot/     Polymarket × Hyperliquid CVD divergence trading bot
 drwxr-xr-x  adsino-bot/          Telegram bot & Mini App — gamified ad engagement
 drwxr-xr-x  more-coming/         █████████░░░░░ 65% complete...
 ```
+
+**[thud](https://github.com/Joel-eth/thud)** — Terminal Homograph URL Defense. A Rust CLI that sits between you and your terminal, detecting Unicode homograph attacks, IDN/Punycode abuse, zero-width character injection, and typosquatting in URLs before they execute. Shell hooks for bash/zsh/fish. *See what you're really running.*
 
 **[wagerdao](https://github.com/Joel-eth/wagerdao)** — Onchain sports betting exchange on Base. Parimutuel markets, USDC settlement, automated resolution. Smart contracts + Next.js frontend + automation layer. Currently in active build.
 
@@ -80,10 +84,11 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 
 ### `> tail -f /var/log/activity`
 
+- �️ Just shipped **[THUD](https://github.com/Joel-eth/thud)** — Rust-based terminal security against Unicode homograph attacks
 - 🔨 Currently building **[WagerDAO](https://github.com/Joel-eth/wagerdao)** — onchain sports betting on Base
-- 🧰 Shipping **full-stack dApps**, **trading bots**, and **developer tools**
-- ⚡ Deep in **Solidity**, **Next.js**, and **DeFi infrastructure**
-- 📡 Exploring **onchain automation**, **MEV**, and **market microstructure**
+- 🧰 Shipping **full-stack dApps**, **trading bots**, **security tools**, and **developer tools**
+- ⚡ Deep in **Solidity**, **Rust**, **Next.js**, and **DeFi infrastructure**
+- 📡 Exploring **onchain automation**, **MEV**, and **supply chain security**
 
 ---
 
