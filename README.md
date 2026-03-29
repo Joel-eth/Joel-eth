@@ -45,6 +45,7 @@ I build **smart contracts**, **trading bots**, **web apps**, and **developer too
 | **Backend** | `Node.js` · `FastAPI` · `WebSockets` · `REST APIs` |
 | **Smart Contracts** | `Hardhat` · `OpenZeppelin` · `Foundry` |
 | **DeFi** | `DEX Aggregation` · `CVD Analysis` · `Order Flow` · `MEV` |
+| **AI/Agents** | `Agent Observability` · `Tracing` · `Circuit Breakers` · `LLM Monitoring` |
 | **Security** | `Unicode Homograph Detection` · `IDN Abuse Prevention` · `Supply Chain Defense` |
 | **Infra** | `Git` · `Docker` · `Linux` · `Vercel` · `Railway` |
 
@@ -58,6 +59,7 @@ I build **smart contracts**, **trading bots**, **web apps**, and **developer too
 drwxr-xr-x  thud/                Terminal Homograph URL Defense — copy-paste protection for devs
 drwxr-xr-x  wagerdao/            Trustless P2P sports betting protocol on Base
 drwxr-xr-x  cvd-trading-bot/     Polymarket × Hyperliquid CVD divergence trading bot
+drwxr-xr-x  veldwatch/           Open-source AI agent observability & oversight platform
 drwxr-xr-x  adsino-bot/          Telegram bot & Mini App — gamified ad engagement
 drwxr-xr-x  more-coming/         █████████░░░░░ 65% complete...
 ```
@@ -67,6 +69,8 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 **[wagerdao](https://github.com/Joel-eth/wagerdao)** — Onchain sports betting exchange on Base. Parimutuel markets, USDC settlement, automated resolution. Smart contracts + Next.js frontend + automation layer. Currently in active build.
 
 **[cvd-trading-bot](https://github.com/Joel-eth/cvd-trading-bot)** — Real-time BTC 5-min trading bot that detects price-CVD divergences on Hyperliquid and places directional bets on Polymarket. Features confidence-based position sizing, multi-sample signal analysis, and a cyberpunk terminal dashboard.
+
+**[veldwatch](https://github.com/Joel-eth/veldwatch)** — Open-source AI agent observability and oversight platform. Real-time monitoring, tracing, logging, and safety controls for autonomous AI agents. Supports LangChain, OpenAI, and AutoGen. Think Datadog for AI agents.
 
 ---
 
@@ -86,6 +90,7 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 
 - �️ Just shipped **[THUD](https://github.com/Joel-eth/thud)** — Rust-based terminal security against Unicode homograph attacks
 - 🔨 Currently building **[WagerDAO](https://github.com/Joel-eth/wagerdao)** — onchain sports betting on Base
+- 🌾 Building **[Veldwatch](https://github.com/Joel-eth/veldwatch)** — AI agent observability & oversight platform
 - 🧰 Shipping **full-stack dApps**, **trading bots**, **security tools**, and **developer tools**
 - ⚡ Deep in **Solidity**, **Rust**, **Next.js**, and **DeFi infrastructure**
 - 📡 Exploring **onchain automation**, **MEV**, and **supply chain security**
