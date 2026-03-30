@@ -60,7 +60,6 @@ drwxr-xr-x  thud/                Terminal Homograph URL Defense — copy-paste p
 drwxr-xr-x  wagerdao/            Trustless P2P sports betting protocol on Base
 drwxr-xr-x  cvd-trading-bot/     Polymarket × Hyperliquid CVD divergence trading bot
 drwxr-xr-x  veldwatch/           Open-source AI agent observability & oversight platform
-drwxr-xr-x  adsino-bot/          Telegram bot & Mini App — gamified ad engagement
 drwxr-xr-x  more-coming/         █████████░░░░░ 65% complete...
 ```
 
@@ -93,14 +92,14 @@ drwxr-xr-x  more-coming/         █████████░░░░░ 65% 
 - 🌾 Building **[Veldwatch](https://github.com/Joel-eth/veldwatch)** — AI agent observability & oversight platform
 - 🧰 Shipping **full-stack dApps**, **trading bots**, **security tools**, and **developer tools**
 - ⚡ Deep in **Solidity**, **Rust**, **Next.js**, and **DeFi infrastructure**
-- 📡 Exploring **onchain automation**, **MEV**, and **supply chain security**
+- � Trying to make **Ethereum** better
+- �📡 Exploring **onchain automation**, **MEV**, and **supply chain security**
 
 ---
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Joel-eth&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00ff88&icon_color=00ff88&text_color=e0e0e8" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joel-eth&theme=radical&hide_border=true&background=0A0A0F&ring=00FF88&fire=FF3366&currStreakLabel=00FF88" width="49%" />
 
 <br/>
 
